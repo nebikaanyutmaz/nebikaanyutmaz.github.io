@@ -1,0 +1,12 @@
+GITHUB'A YÜKLEME
+
+1. ZIP dosyasını bilgisayarında çıkar.
+2. Çıkan klasörün içindeki TÜM DOSYALARI seç.
+3. GitHub repository > Add file > Upload files.
+4. Dosyaları sürükle-bırak ve Commit changes yap.
+5. Bu sürüm klasör kullanmaz; bütün dosyalar ana dizinde kalmalıdır.
+6. Settings > Pages:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+7. Custom domain alanını şimdilik boş bırak. nebikaanyutmaz.com satın alınıp DNS ayarlanırken daha sonra eklenir.

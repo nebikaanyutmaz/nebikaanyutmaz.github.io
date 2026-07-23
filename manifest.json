@@ -1,0 +1,8 @@
+{
+  "name": "Nebi Kaan Yutmaz Portfolio",
+  "short_name": "NKY",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14"
+}
